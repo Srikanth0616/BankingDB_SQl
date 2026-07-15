@@ -23,7 +23,7 @@ Technologies Used
 - USE DATABASE
 - CREATE TABLE
 - DESCRIBE
-- Constraints
+- Constraints 
 
  Learning Outcomes
 - Understand relational database concepts.
