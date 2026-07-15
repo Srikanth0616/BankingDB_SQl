@@ -1,34 +1,41 @@
-SQL Lab 1 - Database Creation
+ SQL Lab 2 - Banking Database Schema
 
  Overview
-This project demonstrates the fundamentals of SQL by creating a relational database from scratch. It covers essential Database Definition Language (DDL) commands used to build the database structure.
+This project focuses on designing a Banking Database Management System using SQL. It demonstrates how multiple relational tables are connected using keys and constraints.
 
 Features
-- Create Database
-- Create Tables
-- Define Data Types
-- Apply Constraints
-  - Primary Key
-  - NOT NULL
-  - UNIQUE
-  - DEFAULT
-- Describe Table Structure
+- Banking Database Design
+- Customer Table
+- Account Table
+- Branch Table
+- Employee Table
+- Loan Table
+- Transaction Table
+- Primary & Foreign Key Relationships
 
 Technologies Used
 - SQL
 - MySQL
 
- SQL Concepts Covered
-- CREATE DATABASE
-- USE DATABASE
+SQL Concepts Covered
 - CREATE TABLE
-- DESCRIBE
-- Constraints 
+- PRIMARY KEY
+- FOREIGN KEY
+- Constraints
+- Relational Database Design
 
- Learning Outcomes
-- Understand relational database concepts.
-- Learn how to create databases and tables.
-- Gain hands-on experience with SQL DDL commands.
+ Database Modules
+- Customers
+- Accounts
+- Transactions
+- Branches
+- Employees
+- Loans
 
- Author
-Srikanth
+Learning Outcomes
+- Design normalized databases.
+- Implement relationships between tables.
+- Understand Banking Database architecture.
+
+Author
+srikanth
