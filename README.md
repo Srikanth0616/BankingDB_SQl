@@ -1,28 +1,26 @@
- SQL Lab 2 - Banking Database Schema
+SQL Lab 3 - Banking Database Data Manipulation
 
  Overview
-This project focuses on designing a Banking Database Management System using SQL. It demonstrates how multiple relational tables are connected using keys and constraints.
+This project demonstrates Data Manipulation Language (DML) operations by inserting and managing data in the Banking Database.
 
-Features
-- Banking Database Design
-- Customer Table
-- Account Table
-- Branch Table
-- Employee Table
-- Loan Table
-- Transaction Table
-- Primary & Foreign Key Relationships
+ Features
+- Insert Customer Records
+- Insert Account Details
+- Insert Branch Information
+- Insert Loan Details
+- Insert Employee Records
+- Insert Transaction History
 
-Technologies Used
+ Technologies Used
 - SQL
 - MySQL
 
-SQL Concepts Covered
-- CREATE TABLE
-- PRIMARY KEY
-- FOREIGN KEY
-- Constraints
-- Relational Database Design
+ SQL Concepts Covered
+- INSERT INTO
+- UPDATE
+- DELETE
+- SELECT
+- Data Management
 
  Database Modules
 - Customers
@@ -32,10 +30,9 @@ SQL Concepts Covered
 - Employees
 - Loans
 
-Learning Outcomes
-- Design normalized databases.
-- Implement relationships between tables.
-- Understand Banking Database architecture.
+ Learning Outcomes
+- Learn SQL DML commands.
+- Populate relational databases with sample data.
+- Perform data management operations.
 
-Author
-srikanth
+ Project Structure
